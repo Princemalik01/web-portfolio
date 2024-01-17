@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color:rgb(50, 36, 174);
+}
+
+h2{
+    text-align: center;
+}
+
+html{
+    background: linear-gradient(135deg,rgb(112, 224, 255),#66f1ca, #92f6a9)
+}
+body{
+    text-align: center
+}
+
+hr{
+    color:#227936
+}
+
+.not{
+    font-size: 40
+}
+
+.yes{
+    font-size: 40
+}
+
+.all{
+    font-size: 25
+}
+
+.all{
+    color:rgb(25, 54, 112)
+}
